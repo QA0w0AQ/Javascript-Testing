@@ -8,4 +8,4 @@
 
 [Intro to Testing - Slides](https://www.teaching-materials.org/jasmine/#/)
 
-[Jasmine Matchers] (https://jasmine.github.io/api/2.6/matchers.html)
+[Jasmine Matchers](https://jasmine.github.io/api/2.6/matchers.html)

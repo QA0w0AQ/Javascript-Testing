@@ -56,3 +56,20 @@ Write a series of unit tests that will validate the following assumptions:
 1. When there is only 1 characters in the string, it returns itself
 2. When there are multiple characters in the string it returns the string, reversed.
 3. When there are no characters in the string, it returns empty string.
+
+## 4
+
+Write at least 3 of your own _unique_ unit tests for the following function.
+
+```javascript
+const reverseSeq = (n) => {
+  let answer = [];          //intialize an array
+  
+  for (let i=n; i>0; i--){  //loop down from n to 1
+    answer.push(i);         //push each i to the answer array
+  }
+  
+  return answer;            //return answer;
+};
+```
+

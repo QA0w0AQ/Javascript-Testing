@@ -9,3 +9,5 @@
 [Intro to Testing - Slides](https://www.teaching-materials.org/jasmine/#/)
 
 [Jasmine Matchers](https://jasmine.github.io/api/2.6/matchers.html)
+
+[Exercise 1 Solution](https://github.com/jniziol/Javascript-Testing/tree/master/exercise1Soln)

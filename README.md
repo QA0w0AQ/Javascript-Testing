@@ -13,3 +13,5 @@
 [Exercise 1 Solution](https://github.com/jniziol/Javascript-Testing/tree/master/exercise1Soln)
 
 [Downloading Jasmine](https://github.com/jniziol/Javascript-Testing/blob/master/downloadingJasmine.md)
+
+[Assignment 1](https://github.com/jniziol/Javascript-Testing/blob/master/assignment1.md)

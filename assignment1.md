@@ -1,6 +1,15 @@
 # SD150 Assignment 1
 
-[Dropbox](https://www.dropbox.com/request/9KQvyk0EvEgJUN1aNvE4)
+Your solution should contain 1 spec file and 1 file which contains the functions, along with the the other files required by Jasmine.
+
+You should submit upload your assignment to a new Git repository and send a link to your repository to me, via email, no later than 8:45 AM, Tuesday, May 22nd, 2018
+
+Any changes in your repository after the submission date will be disregarded. 
+
+See [Assignment #1 rubric](https://github.com/jniziol/Javascript-Testing/blob/master/SD150%20Assignment%20%231%20-%20Rubric.pdf) for the evaluation criteria.
+
+**NO LATE ASSIGNMENTS WILL BE ACCEPTED**
+
 
 ## 1
 

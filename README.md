@@ -15,3 +15,5 @@
 [Downloading Jasmine](https://github.com/jniziol/Javascript-Testing/blob/master/downloadingJasmine.md)
 
 [Assignment 1](https://github.com/jniziol/Javascript-Testing/blob/master/assignment1.md)
+
+[Jasmine - Your First Suite](https://jasmine.github.io/tutorials/your_first_suite)

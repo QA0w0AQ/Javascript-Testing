@@ -42,7 +42,6 @@ Given the following JavaScript function
 
 ```javascript
 const isDivisible = (number, divisorA, divisorB) => number % divisorB === 0 && number % divisorA === 0
-}
 ```
 
 Write a series of unit tests that will validate the following assumptions:
@@ -57,7 +56,7 @@ Write a series of unit tests that will validate the following assumptions:
 Given the following JavaScript function
 
 ```javascript
-const solution => (str) str.split('').reverse().join('')
+const solution = (str) => str.split('').reverse().join('')
 ```
 
 Write a series of unit tests that will validate the following assumptions:

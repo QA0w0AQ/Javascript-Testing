@@ -42,13 +42,12 @@ Given the following JavaScript function
 
 ```javascript
 const isDivisible = (number, divisorA, divisorB) => number % divisorB === 0 && number % divisorA === 0
-}
 ```
 
 Write a series of unit tests that will validate the following assumptions:
 
 1. When a number is divisible by both of the provided divisors, it should return true.
-2. When the number is larger then both the provided divisors, it should return false.
+2. When the number is smaller then both the provided divisors, it should return false.
 3. When the number is not divisible by only one of the provided divisors it should return false.
 4. When the number is not divisible by any of the provided divisors it should return false.
 
@@ -57,7 +56,7 @@ Write a series of unit tests that will validate the following assumptions:
 Given the following JavaScript function
 
 ```javascript
-const solution => (str) str.split('').reverse().join('')
+const solution = (str) => str.split('').reverse().join('')
 ```
 
 Write a series of unit tests that will validate the following assumptions:

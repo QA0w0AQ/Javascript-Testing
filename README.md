@@ -16,4 +16,8 @@
 
 [Assignment 1](https://github.com/jniziol/Javascript-Testing/blob/master/assignment1.md)
 
+[Assignment 1 Solution](https://github.com/jniziol/Javascript-Testing/tree/master/Assignment1sln)
+
 [Jasmine - Your First Suite](https://jasmine.github.io/tutorials/your_first_suite)
+
+[Bank Account Solution](https://github.com/jniziol/Javascript-Testing/tree/master/bankAccountSln)

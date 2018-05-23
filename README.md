@@ -21,3 +21,5 @@
 [Jasmine - Your First Suite](https://jasmine.github.io/tutorials/your_first_suite)
 
 [Bank Account Solution](https://github.com/jniziol/Javascript-Testing/tree/master/bankAccountSln)
+
+[Database w/ tests Exercise](https://github.com/jniziol/Javascript-Testing/blob/master/databaseWithTests.md)

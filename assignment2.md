@@ -18,6 +18,7 @@ Write a new `ShoppingCart` object that contains the following methods:
 2) `remove(product)` to remove an item from the shopping cart. You cannot remove items from an empty cart, so when you cart is empty and you try to remove an item, return the following string - "Your cart is empty."
 3) `discount(10)` percentage of discount to apply to your cart. You cannot discount items more than 50% or the manager will get mad. If you attempt to discount items more than 50%, it discount only 50%.
 4) `total()` to return the total of all items in the cart, after any discounts have been applied.
+5) `items()` This will return the current items in your cart.
 
 The `product` passed to the `scan` and `remove` methods should be JavaScript object literals. They must have a `price` property and a `itemId` property. Here are a few example items, but I expect you to create your own.
 
